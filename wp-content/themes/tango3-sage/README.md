@@ -52,4 +52,3 @@ See the [Sage installation documentation](https://roots.io/sage/docs/installatio
 - Follow [@rootswp on Twitter](https://twitter.com/rootswp)
 - Read the [Roots Blog](https://roots.io/blog/)
 - Subscribe to the [Roots Newsletter](https://roots.io/newsletter/)
-# tango3-sage
