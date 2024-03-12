@@ -45,7 +45,7 @@ Sage is a WordPress starter theme with block editor support.
 
 See the [Sage installation documentation](https://roots.io/sage/docs/installation/).
 
-## Stay Connected
+## Stay Connected UPDATE
 
 - Join us on Discord by [sponsoring us on GitHub](https://github.com/sponsors/roots)
 - Participate on [Roots Discourse](https://discourse.roots.io/)
